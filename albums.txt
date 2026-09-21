@@ -1,0 +1,11 @@
+# ------------------------------- 
+# List the albums in any of the following ways:
+# Artist - Album
+# Album-only lines work too
+# https://music.apple.com/us/album/in-rainbows/1109714933
+# id:1440833098
+#  -------------------------------
+# Lines starting with "#" are not read
+# Perfect matches are recommended but not needed, it will download the first result
+# Not case sensitive
+# -------------------------------
